@@ -46,4 +46,4 @@ menu:
 | Soukromá lekce 60 / 90 min                                 | 800 / 1 200 Kč  |
 | *lekce pro 1-3 osoby ve Vámi určený čas*                                     |
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvVNkiRA_YS_qu8baz9Sl_ZuwUiAwsbmkPw9gDi-xLlC_YMA/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0">Načítání…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScvVNkiRA_YS_qu8baz9Sl_ZuwUiAwsbmkPw9gDi-xLlC_YMA/viewform?embedded=true" width="640" height="1200" frameborder="0" marginheight="0" marginwidth="0">Načítání…</iframe>

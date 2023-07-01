@@ -11,6 +11,9 @@ body > nav {
   height: 5rem;
   padding: 0 max(1rem, calc(50vw - 640px));
   border-bottom: #ddd solid 1px;
+  z-index: 1;
+  overflow-x: hidden;
+  justify-content: space-evenly;
 }
 body > nav[fixed] {
   position: sticky;
@@ -36,6 +39,11 @@ body > nav > :first-child {
   line-height: 5rem;
   padding: 0 1rem;
   overflow-x: hidden;
+}
+@media screen and (max-width: 600px) {
+  body > nav > :first-child {
+    display: none;
+  }
 }
 body > nav > :not(:first-child) {
   padding: 2rem 1rem;
@@ -78,9 +86,14 @@ body > header[dark] > img {
   filter: brightness(66%);
 }
 body > main {
-  padding: 2rem;
+  padding: 0.5rem;
   margin: 0 max(0px, calc(50vw - 570px));
   line-height: 1.6;
+}
+@media screen and (min-width: 450px) {
+  body > main {
+    padding: 2rem;
+  }
 }
 body > main > :is(h1, h2, h3, h4, h5, h6) {
   font-family: 'Playfair Display', serif;
@@ -131,7 +144,7 @@ body > main table tr {
 body > main table tr:not(:last-child):not(:has(+ tr > td > :is(em, i))), body > main table tr:not(:last-child):not([before-em]) {
   border-bottom: 1px solid #ddd;
 }
-body > main table tr:has(> td > :is(em, i)), body > main table tr[has-em] {
+body > main table tr[has-em], body > main table tr:has(> td > :is(em, i)) {
   height: 3rem;
   color: #666;
   font-size: 0.9em;
