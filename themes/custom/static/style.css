@@ -9,7 +9,7 @@ body {
 body > nav {
   display: flex;
   height: 5rem;
-  padding: 0 max(1rem, calc(50vw - 640px));
+  padding: 0 calc(50vw - 640px);
   border-bottom: #ddd solid 1px;
   z-index: 1;
   overflow-x: hidden;
@@ -24,8 +24,9 @@ body > nav > * {
   position: relative;
   color: #393939;
   text-decoration: inherit;
-  text-wrap: nowrap;
+  white-space: nowrap;
   text-overflow: ellipsis;
+  overflow: hidden;
 }
 body > nav > :first-child {
   font-family: 'Playfair Display', serif;
@@ -43,6 +44,9 @@ body > nav > :first-child {
 @media screen and (max-width: 600px) {
   body > nav > :first-child {
     display: none;
+  }
+  body > nav > :not(:first-child) {
+    padding: 2rem 0;
   }
 }
 body > nav > :not(:first-child) {
@@ -86,14 +90,9 @@ body > header[dark] > img {
   filter: brightness(66%);
 }
 body > main {
-  padding: 0.5rem;
+  padding: min(2rem, 4vw);
   margin: 0 max(0px, calc(50vw - 570px));
   line-height: 1.6;
-}
-@media screen and (min-width: 450px) {
-  body > main {
-    padding: 2rem;
-  }
 }
 body > main > :is(h1, h2, h3, h4, h5, h6) {
   font-family: 'Playfair Display', serif;
@@ -114,7 +113,6 @@ body > main a:hover {
 body > main img {
   width: 100%;
   object-fit: contain;
-  object-position: 0%;
   max-height: 50vh;
 }
 @media screen and (min-width: 100ch) {
@@ -158,6 +156,7 @@ body > main table td[style="text-align:right"] {
   font-weight: 600;
   font-size: 0.8em;
   color: #666;
+  white-space: nowrap;
 }
 body > main > iframe {
   width: 100%;
