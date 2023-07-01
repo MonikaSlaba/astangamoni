@@ -1,0 +1,167 @@
+body {
+  position: absolute;
+  inset: 0 0 auto 0;
+  margin: 0;
+  font-family: 'Open Sans';
+  color: #666666;
+  overflow-y: scroll;
+}
+body > nav {
+  display: flex;
+  height: 5rem;
+  padding: 0 max(1rem, calc(50vw - 640px));
+  border-bottom: #ddd solid 1px;
+}
+body > nav[fixed] {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+}
+body > nav > * {
+  position: relative;
+  color: #393939;
+  text-decoration: inherit;
+  text-wrap: nowrap;
+  text-overflow: ellipsis;
+}
+body > nav > :first-child {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  font-style: italic;
+  /* margin-left: 1rem; */
+  margin: 0 auto 0 0;
+  vertical-align: middle;
+  height: 5rem;
+  line-height: 5rem;
+  padding: 0 1rem;
+  overflow-x: hidden;
+}
+body > nav > :not(:first-child) {
+  padding: 2rem 1rem;
+}
+body > nav > :not(:first-child)::after {
+  content: "";
+  transition: 100ms;
+  position: absolute;
+  inset: 3.5rem 1rem 1rem;
+  height: 1px;
+  transform: scaleX(0);
+}
+body > nav > :not(:first-child):is(:hover, :focus, [current])::after {
+  transition: transform 200ms;
+  transform: scaleX(1);
+  background-color: #000;
+}
+body > header {
+  position: relative;
+  display: flex;
+  height: calc(50vh - 5rem);
+  align-items: center;
+  justify-content: center;
+}
+body > header > h1 {
+  color: #fff;
+  font-size: 3.3em;
+  font-weight: 400;
+}
+body > header > img {
+  position: absolute;
+  inset: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: 50% var(--y-position);
+  z-index: -1;
+}
+body > header[dark] > img {
+  filter: brightness(66%);
+}
+body > main {
+  padding: 2rem;
+  margin: 0 max(0px, calc(50vw - 570px));
+  line-height: 1.6;
+}
+body > main > :is(h1, h2, h3, h4, h5, h6) {
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  color: #393939;
+  font-weight: 700;
+}
+body > main p a {
+  transition: 200ms;
+  color: #444;
+  text-decoration: none;
+  border: 0 solid #4448;
+  border-bottom-width: 1px;
+}
+body > main a:hover {
+  border-color: #444;
+}
+body > main img {
+  width: 100%;
+  object-fit: contain;
+  object-position: 0%;
+  max-height: 50vh;
+}
+@media screen and (min-width: 100ch) {
+  body > main p:has(+ blockquote), body > main p[with-blockquote] {
+    display: inline-block;
+    vertical-align: top;
+    max-width: 50%;
+  }
+  body > main p:has(img) + blockquote, main blockquote[with-img] {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(50% - 2rem);
+    margin: 0 0 0 1rem;
+  }
+}
+body > main table {
+  width: 100%;
+  font-size: 1.2em;
+  border-collapse: collapse;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+body > main table tr {
+  height: 3.5rem;
+  color: #444;
+}
+body > main table tr:not(:last-child):not(:has(+ tr > td > :is(em, i))), body > main table tr:not(:last-child):not([before-em]) {
+  border-bottom: 1px solid #ddd;
+}
+body > main table tr:has(> td > :is(em, i)), body > main table tr[has-em] {
+  height: 3rem;
+  color: #666;
+  font-size: 0.9em;
+  vertical-align: top;
+}
+body > main table tr > td > :is(em, i) {
+  font-style: normal;
+}
+body > main table td[style="text-align:right"] {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+  font-size: 0.8em;
+  color: #666;
+}
+body > main > iframe {
+  width: 100%;
+  overflow-y: visible;
+}
+
+body > footer {
+  padding: 1.5rem 0;
+  text-align: center;
+}
+
+body > main .gallery {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+}
+body > main .gallery img {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}

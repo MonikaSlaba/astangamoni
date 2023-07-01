@@ -1,0 +1,11 @@
+baseURL = 'http://astangamoni.cz/'
+languageCode = 'cs'
+title = 'Aštanga Yoga Monika Slabá'
+theme = 'custom'
+
+[params]
+  copyrightFrom = '2017'
+  fixedNavBar = true
+
+[markup.goldmark.renderer]
+  unsafe = true

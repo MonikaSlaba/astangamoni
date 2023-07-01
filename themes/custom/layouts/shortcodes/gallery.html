@@ -1,0 +1,12 @@
+<section class="gallery">
+    <!-- <img src="" alt=""> -->
+    {{ $dir := .Get 0 }}
+    {{ range (readDir (printf "assets/%s" $dir)) }}
+        {{ with resources.Get (printf "%s%s" $dir .Name) }}
+            {{ $preview := .Resize "x480" }}
+            <a href="{{ .Permalink }}">
+                <img src="{{ $preview.Permalink }}">
+            </a>
+        {{ end }}
+    {{ end }}
+</section>
