@@ -1,7 +1,7 @@
 ---
 title: "Kontakty"
 date: 2023-06-30T18:34:31+02:00
-image: "/Ilustrace kontaktu.webp"
+image: "/Ilustrace-kontaktů.webp"
 menu:
   main:
     weight: 4

@@ -1,0 +1,4 @@
+{{ $image := resources.GetMatch .Destination }}
+{{ if $image }}
+    <img src="{{ $image.Permalink }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}"{{ end }} />
+{{ else }} {{ errorf "Cannot find image from markdown: `%s`" .Destination }} {{ end }}

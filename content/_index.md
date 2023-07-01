@@ -19,7 +19,7 @@ menu:
 - ČT - 7:30 Yogaway Beroun (90 min)
 - ČT - 19:00 Yogaway Beroun - Kurz pro (věčné) začátečníky (90 min)
 
-![](/Ilustrace%20rozvrhu.png)
+![](Ilustrace-rozvrhu.png)
 
 >Výuka probíhá ve skupině do 10 účastníků, pokud hledáte osobní přístup a rodinnou atmosféru, přijďte :)
 >Všechny lekce jsou přizpůsobeny příchozím účastníkům. Můžete se mnou zažít lekci ve stylu mysore, vedenou lekci nebo jejich kombinaci. Ladíme 1. a 2. sérii aštanga jógy.
