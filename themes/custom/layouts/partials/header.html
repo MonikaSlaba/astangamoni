@@ -6,13 +6,13 @@
 
 	<title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 
-	<link rel="stylesheet" href="/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}style.css" type="text/css" media="all" />
 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:ital,wght@0,500;1,400;1,500&display=swap" rel="stylesheet">
 
-	<script src="/compatibility.js" defer></script>
+	<script src="{{ .Site.BaseURL }}compatibility.js" defer></script>
 
 	{{ with .OutputFormats.Get "rss" -}}
 		{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
@@ -34,9 +34,11 @@
 {{ if .Description | or .Params.image }}
 	<header {{ if .Description }} dark {{ end }}>
 		{{ if .Params.image }}
-			{{ with resources.Get .Params.image }}
-				<img src="{{ .Permalink }}" style="--y-position: {{ .Params.imagePosition }}%">
-			{{ end }}
+			{{ $image := resources.GetMatch .Params.image }}
+			{{ if $image }}
+				{{ $image := $image.Resize "1920x" }}
+				<img src="{{ $image.Permalink }}" style="--y-position: {{ .Params.imagePosition }}%">
+			{{ else }} {{ errorf "Cannot find header image `%s`" .Params.image }} {{ end }}
 		{{ end }}
 		<h1>{{ .Description }}</h1>
 	</header>
