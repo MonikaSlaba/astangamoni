@@ -116,12 +116,12 @@ body > main img {
   max-height: 50vh;
 }
 @media screen and (min-width: 100ch) {
-  body > main p:has(+ blockquote), body > main p[with-blockquote] {
+  body > main p:is(:has(img):has(+ blockquote), [before-blockquote-has-img]) {
     display: inline-block;
     vertical-align: top;
     max-width: 50%;
   }
-  body > main p:has(img) + blockquote, main blockquote[with-img] {
+  body > main p:is(:has(img), [before-blockquote-has-img]) + blockquote {
     display: inline-block;
     vertical-align: top;
     width: calc(50% - 2rem);
@@ -139,17 +139,17 @@ body > main table tr {
   height: 3.5rem;
   color: #444;
 }
-body > main table tr:not(:last-child):not(:has(+ tr > td > :is(em, i))), body > main table tr:not(:last-child):not([before-em]) {
+body > main table tr:not(:last-child):not(:is(:has(+ tr > td > :is(em, i)), [before-has-em])) {
   border-bottom: 1px solid #ddd;
 }
-body > main table tr[has-em], body > main table tr:has(> td > :is(em, i)) {
+body > main table tr:is(:has(> td > :is(em, i)), tr[has-em]) {
   height: 3rem;
   color: #666;
   font-size: 0.9em;
   vertical-align: top;
 }
 body > main table tr > td > :is(em, i) {
-  font-style: normal;
+  font-style: inherit;
 }
 body > main table td[style="text-align:right"] {
   font-family: 'Open Sans', sans-serif;
