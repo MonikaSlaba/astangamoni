@@ -76,8 +76,13 @@ body > header > h1 {
   color: #fff;
   font-size: min(3.3em, 10vw);;
   font-weight: 400;
-  width: 100%;
-  margin: 0 5rem;
+}
+@media screen and (min-width: 100ch) {
+  body > header > h1 {
+    position: absolute;
+    left: var(--left);
+    right: var(--right);
+  }
 }
 body > header > img {
   position: absolute;

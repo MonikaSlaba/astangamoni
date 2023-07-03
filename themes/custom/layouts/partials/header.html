@@ -38,10 +38,16 @@
 			{{ $image := resources.GetMatch .Params.image }}
 			{{ if $image }}
 				{{ $image := $image.Resize "1920x" }}
-				<img src="{{ $image.Permalink }}" style="--y-position: {{ .Params.imagePosition }}%">
+				<img
+					src="{{ $image.Permalink }}"
+					style="--y-position: {{ .Params.imagePosition }}%;">
 			{{ else }} {{ errorf "Cannot find header image `%s`" .Params.image }} {{ end }}
 		{{ end }}
-		<h1 {{ with .Params.descriptionAlignment }} style="text-align: {{ . }}" {{ end }}>{{ .Description }}</h1>
+		<h1
+			style="
+			--left: {{ .Params.descriptionLeft }}vw;
+			--right: {{ .Params.descriptionRight }}vw">
+		{{ .Description }}</h1>
 	</header>
 {{ end }}
 

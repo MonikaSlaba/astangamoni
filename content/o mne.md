@@ -2,7 +2,7 @@
 title: "O mně"
 date: 2023-06-29T13:29:29+02:00
 description: "Abyste se cítili lépe"
-descriptionAlignment: "end"
+descriptionRight: 10
 image: "/Úvodní.webp"
 imagePosition: 20
 footerImage: "/Patička-o-mně.webp"
