@@ -1,6 +1,9 @@
 </main>
-	
+
 <footer>
+	{{ with resources.GetMatch .Params.footerImage }}
+		<img src="{{ (.Resize `1920x`).Permalink }}">
+	{{ end }}
 	<p>&copy; {{ if .Site.Params.copyrightFrom }}{{ .Site.Params.copyrightFrom }}-{{ end }}{{ dateFormat "2006" now }} Monika Slabá</p>
 </footer>
 

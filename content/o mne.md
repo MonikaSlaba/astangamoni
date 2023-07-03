@@ -5,6 +5,7 @@ description: "Abyste se cítili lépe"
 descriptionAlignment: "end"
 image: "/Úvodní.webp"
 imagePosition: 20
+footerImage: "/Patička-o-mně.webp"
 menu:
   main:
     weight: 5

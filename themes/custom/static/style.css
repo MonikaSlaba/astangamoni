@@ -172,9 +172,17 @@ body > main > iframe {
   overflow-y: visible;
 }
 
-body > footer {
-  padding: 1.5rem 0;
+body > footer > p {
+  position: sticky;
+  bottom: 0;
+  margin: 0;
+  padding: 2.5rem 0;
   text-align: center;
+  background-color: #fff;
+}
+body > footer > img {
+  width: 100%;
+  margin-top: 1px;
 }
 
 body > main .gallery {
@@ -244,4 +252,7 @@ body > main .page .page-link:hover {
     float: right;
     margin: 3rem 0 0 1rem;
   }
+}
+body > img {
+  width: 100%;
 }
