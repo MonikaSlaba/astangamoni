@@ -105,7 +105,7 @@ body > main > :is(h1, h2, h3, h4, h5, h6) {
   margin: 3rem 0 1rem;
   font-family: 'Open Sans', serif;
   font-style: italic;
-  color: #393939;
+  color: #000;
   font-weight: 700;
 }
 body > main > :is(h1, h2, h3, h4, h5, h6) > em {
