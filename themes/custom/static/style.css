@@ -150,7 +150,7 @@ body > main table tr {
   height: 3.5rem;
   color: #444;
 }
-body > main table tr:has(th:empty) {
+body > main table tr:is(:has(> th:empty), [has-empty-th]) {
   display: none;
 }
 body > main table tr:not(:last-child):not(:is(:has(+ tr > td > :is(em, i)), [before-has-em])) {
