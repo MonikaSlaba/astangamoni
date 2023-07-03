@@ -10,7 +10,7 @@
         <a class="page-link" href="{{ .Permalink }}">{{ .Site.Params.listPageLinkText }}</a>
         <h2>{{ .Title }}</h2>
         <p>
-            {{ .Summary | safeHTML }}
+            {{ .Summary | plainify }}
         </p>
     </article>
 {{ end }}

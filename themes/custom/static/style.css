@@ -29,7 +29,7 @@ body > nav > * {
   overflow: hidden;
 }
 body > nav > :first-child {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Open Sans', serif;
   font-size: 1.5em;
   font-weight: 400;
   font-style: italic;
@@ -74,8 +74,10 @@ body > header {
 }
 body > header > h1 {
   color: #fff;
-  font-size: 3.3em;
+  font-size: min(3.3em, 10vw);;
   font-weight: 400;
+  width: 100%;
+  margin: 0 5rem;
 }
 body > header > img {
   position: absolute;
@@ -95,10 +97,14 @@ body > main {
   line-height: 1.6;
 }
 body > main > :is(h1, h2, h3, h4, h5, h6) {
-  font-family: 'Playfair Display', serif;
+  margin: 3rem 0 1rem;
+  font-family: 'Open Sans', serif;
   font-style: italic;
   color: #393939;
   font-weight: 700;
+}
+body > main > :is(h1, h2, h3, h4, h5, h6) > em {
+  font-size: 0.8em;
 }
 body > main p a {
   transition: 200ms;
@@ -139,6 +145,9 @@ body > main table tr {
   height: 3.5rem;
   color: #444;
 }
+body > main table tr:has(th:empty) {
+  display: none;
+}
 body > main table tr:not(:last-child):not(:is(:has(+ tr > td > :is(em, i)), [before-has-em])) {
   border-bottom: 1px solid #ddd;
 }
@@ -153,7 +162,7 @@ body > main table tr > td > :is(em, i) {
 }
 body > main table td[style="text-align:right"] {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 600;
+  font-weight: 700;
   font-size: 0.8em;
   color: #666;
   white-space: nowrap;
@@ -204,6 +213,7 @@ body > main .page p {
   overflow: hidden;
 }
 body > main .page .page-link {
+  transition: background-color 300ms, color 300ms;
   position: absolute;
   display: block;
   inset: auto calc(50% - 5rem) 1rem;
@@ -212,6 +222,10 @@ body > main .page .page-link {
   background-color: #444;
   text-align: center;
   text-decoration: none;
+}
+body > main .page .page-link:hover {
+  background-color: #ccc;
+  color: #000;
 }
 @media screen and (min-width: 100ch) {
   body > main .page {

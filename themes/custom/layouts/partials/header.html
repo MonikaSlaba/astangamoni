@@ -10,7 +10,7 @@
 
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Playfair+Display:ital,wght@0,500;1,400;1,500&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600,500;1,400;1,500&display=swap" rel="stylesheet">
 
 	<script src="{{ .Site.BaseURL }}compatibility.js" defer></script>
 
@@ -27,7 +27,7 @@
 	<a href="/">{{ .Site.Title }}</a>
 
 	{{ $currentPage := . }}
-	{{ range .Site.Menus.main }}
+	{{ range .Site.Menus.main.ByWeight }}
 		<a href="{{ .URL }}" {{ if ($currentPage.IsMenuCurrent "main" .) }}current{{ end }}>{{ .Name }}</a>
 	{{ end }}
 </nav>
@@ -41,7 +41,7 @@
 				<img src="{{ $image.Permalink }}" style="--y-position: {{ .Params.imagePosition }}%">
 			{{ else }} {{ errorf "Cannot find header image `%s`" .Params.image }} {{ end }}
 		{{ end }}
-		<h1>{{ .Description }}</h1>
+		<h1 {{ with .Params.descriptionAlignment }} style="text-align: {{ . }}" {{ end }}>{{ .Description }}</h1>
 	</header>
 {{ end }}
 
