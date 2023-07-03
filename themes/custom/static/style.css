@@ -2,7 +2,7 @@ body {
   position: absolute;
   inset: 0 0 auto 0;
   margin: 0;
-  font-family: 'Open Sans';
+  font-family: 'Open Sans', sans-serif;
   color: #666666;
   overflow-y: scroll;
 }
@@ -176,4 +176,59 @@ body > main .gallery {
 body > main .gallery img {
   aspect-ratio: 1 / 1;
   object-fit: cover;
+}
+
+body > main .page {
+  transition: border 200ms;
+  position: relative;
+  display: block;
+  margin: 3rem 1rem;
+  border-bottom: #ddd solid 1px;
+  color: currentColor;
+  text-decoration: none;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+body > main .page :is(h2, h3, h4, h5, h6) {
+  margin: 0;
+  font-size: 1.1em;
+}
+body > main .page img {
+  height: 25vh;
+  width: min-content;
+  width: 100%;
+}
+body > main .page p {
+  margin: 0 0 6rem 0;
+  max-height: 20vh;
+  overflow: hidden;
+}
+body > main .page .page-link {
+  position: absolute;
+  display: block;
+  bottom: 1rem;
+  margin: 1rem calc(50% - 5rem) 0;
+  padding: 1rem 1rem;
+  color: #fff;
+  background-color: #444;
+  text-align: center;
+  text-decoration: none;
+}
+@media screen and (min-width: 100ch) {
+  body > main .page {
+    height: 10rem;
+    border: none;
+  }
+  body > main .page img {
+    float: left;
+    height: 100%;
+    width: unset;
+    max-width: 50%;
+    margin-right: 1rem;
+  }
+  body > main .page .page-link {
+    position: unset;
+    float: right;
+    margin: 3rem 0 0 1rem;
+  }
 }
