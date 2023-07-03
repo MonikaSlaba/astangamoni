@@ -206,8 +206,7 @@ body > main .page p {
 body > main .page .page-link {
   position: absolute;
   display: block;
-  bottom: 1rem;
-  margin: 1rem calc(50% - 5rem) 0;
+  inset: auto calc(50% - 5rem) 1rem;
   padding: 1rem 1rem;
   color: #fff;
   background-color: #444;
