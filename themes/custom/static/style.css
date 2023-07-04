@@ -1,8 +1,10 @@
 body {
+  --body-font: "Open Sans", sans-seif;
+  --header-font: "Open Sans", sans-seif;
   position: absolute;
   inset: 0 0 auto 0;
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: var(--body-font);
   color: #666666;
   overflow-y: scroll;
 }
@@ -29,7 +31,7 @@ body > nav > * {
   overflow: hidden;
 }
 body > nav > :first-child {
-  font-family: 'Open Sans', serif;
+  font-family: var(--header-font);
   font-size: 1.5em;
   font-weight: 400;
   font-style: italic;
@@ -107,11 +109,13 @@ body > main {
 }
 body > main :is(h1, h2, h3, h4, h5, h6) {
   margin-bottom: 1em;
-  font-family: 'Open Sans', sans-serif;
   font-weight: 700;
 }
 body > main > :is(h1, h2, h3, h4, h5, h6) > em {
   font-size: 0.8em;
+}
+body > main :is(h1, h2, h3) {
+  font-family: var(--header-font);
 }
 body > main > h1 {
   margin: 3em 0 1em;
@@ -153,7 +157,7 @@ body > main table {
   width: 100%;
   font-size: 1.2em;
   border-collapse: collapse;
-  font-family: 'Open Sans', sans-serif;
+  font-family: var(--body-font);
   font-weight: 400;
 }
 body > main table tr {
@@ -176,7 +180,7 @@ body > main table tr > td > :is(em, i) {
   font-style: inherit;
 }
 body > main table td[style="text-align:right"] {
-  font-family: 'Open Sans', sans-serif;
+  font-family: var(--body-font);
   font-weight: 700;
   font-size: 0.8em;
   color: #666;
