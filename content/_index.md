@@ -26,17 +26,18 @@ menu:
 >Každé úterý v 19.30 hod je možné se k fyzické lekci připojit i ONLINE. Link zašlu na vyžádání do sms.
 >
 >**O prázdninách se na lekci hlaste předem na 774 177 583.**
-><br>
-><br>
->**Platby**
+>
+>#### Platby
 > - platby v Yogaway na lekci cash / den před lekcí na účet (pošlu)
 > - platby za lekci ONLINE se hradí den před lekcí na účet
 > - platby ve Fyziovital se hradí na recepci
 
 # CENÍK LEKCÍ
 
-<!-- | Kurz pro (věčné) začátečníky ČTVRTEK od 19 hod: 04-06/2023 | 250 / 1000 Kč   |
-| *Jednotlivá lekce 250 Kč / permanentka kal. měsíc 5 lekcí (90 min a 200 Kč)* | -->
+<!--
+| Kurz pro (věčné) začátečníky ČTVRTEK od 19 hod: 04-06/2023 | 250 / 1000 Kč   |
+| *Jednotlivá lekce 250 Kč / permanentka kal. měsíc 5 lekcí (90 min a 200 Kč)* |
+-->
 |                                                            |                 |
 | ---------------------------------------------------------- | ---------------:|
 | Yogaway jednotlivá lekce 90 min                            | 250 Kč          |
