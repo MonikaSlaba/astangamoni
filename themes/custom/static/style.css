@@ -38,19 +38,12 @@ body > nav > :first-child {
   vertical-align: middle;
   height: 5rem;
   line-height: 5rem;
-  padding: 0 1rem;
+  padding-left: 1rem;
   overflow-x: hidden;
-}
-@media screen and (max-width: 600px) {
-  body > nav > :first-child {
-    display: none;
-  }
-  body > nav > :not(:first-child) {
-    padding: 2rem 0;
-  }
 }
 body > nav > :not(:first-child) {
   padding: 2rem 1rem;
+  flex-shrink: 0;
 }
 body > nav > :not(:first-child)::after {
   content: "";
@@ -59,6 +52,17 @@ body > nav > :not(:first-child)::after {
   inset: 3.5rem 1rem 1rem;
   height: 1px;
   transform: scaleX(0);
+}
+@media screen and (max-width: 600px) {
+  body > nav > :first-child {
+    display: none;
+  }
+  body > nav > :not(:first-child) {
+    padding: 2rem 0;
+  }
+  body > nav > :not(:first-child)::after {
+    inset: 3.5rem 0 1rem;
+  }
 }
 body > nav > :not(:first-child):is(:hover, :focus, [current])::after {
   transition: transform 200ms;
