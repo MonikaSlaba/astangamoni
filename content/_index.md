@@ -13,7 +13,7 @@ menu:
 - PO - 19:00 Yogaway Beroun (90 min)
 - ÚT - 7:30 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek + ONLINE (60 min)
-- ST - dopoledne - prostor pro Vaši soukromou lekci, napište mi sms :)
+- ST - prostor pro Vaši dopolední soukromou lekci, napište mi [sms](/kontakty) :)
 - ČT - 7:30 Yogaway Beroun (90 min)
 - ČT - 19:00 Yogaway Beroun (90 min)
 
