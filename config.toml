@@ -2,7 +2,7 @@ baseURL = 'http://astangamoni.cz/'
 languageCode = 'cs'
 title = 'Aštanga jóga Monika Slabá'
 theme = 'monika'
-googleAnalytics = 'G-5PCK3188DQ'
+googleAnalytics = 'G-HBF67DF5L3'
 summaryLength = 20
 
 [params]
