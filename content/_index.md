@@ -2,6 +2,7 @@
 title: "Lekce"
 date: 2023-06-28T20:03:57+02:00
 footerImage: "/Patička-kontaktů.webp"
+aliases: ["/lekce"]
 menu:
   main:
     weight: 1
