@@ -15,7 +15,7 @@ menu:
 
 Aštanga jóga je ucelený systém fyzického cvičení, dechových, koncentračních, relaxačních aj. technik. Její pravidelné praktikování probudí a ozdraví Vaše tělo; převrátí naruby Vaši mysl, probudí emoce a zase je zklidní; odkryje nový kus Vašeho já. Stále mne překvapuje něčím novým, co může nabídnout, je nekonečná jako vesmír...
 
-Mé lekce jsou dynamické, propojují dech a pohyb (vinyasa). Stálost sestavy dovoluje jogínovi zautomatizovat pozice (ásany) i přechody mezi nimi. V průběhu cvičení se tak mysl může více soustředit na dech (udžají), energetické zámky (bandhy) a směr pohledu očí (drišti). Tím dochází k hlubokému zvnitřnění. Cvičení se postupně stává meditací v pohybu, prohlubuje vnímání při lekci i v běžném životě, vede k sebepoznání.
+Mé lekce jsou dynamické, propojují dech a pohyb (vinyasa). Stálost sestavy dovoluje jóginovi zautomatizovat pozice (ásany) i přechody mezi nimi. V průběhu cvičení se tak mysl může více soustředit na dech (udžají), energetické zámky (bandhy) a směr pohledu očí (drišti). Tím dochází k hlubokému zvnitřnění. Cvičení se postupně stává meditací v pohybu, prohlubuje vnímání při lekci i v běžném životě, vede k sebepoznání.
 
 Budete-li praktikovat často a pravidelně, jóga Vás změní. Umožní Vám se uvolnit. Z lekce budete odcházet radostní, plní síly a energie, která Vám vydrží do druhého dne i déle. Jóga je veliká čarodějka, nádherný dar pro toho, kdo uvěří v její moc...
 
