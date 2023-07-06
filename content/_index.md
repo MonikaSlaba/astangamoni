@@ -53,4 +53,4 @@ menu:
 
 # REZERVUJTE SI SVOU LEKCI
 
-nebo si požádejte o novinky [**zde**](/kontakty).
+nebo požádejte o novinky [**zde**](/kontakty).
