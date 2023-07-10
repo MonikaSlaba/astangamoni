@@ -4,6 +4,7 @@ title = 'Aštanga jóga Monika Slabá'
 theme = 'monika'
 googleAnalytics = 'G-HBF67DF5L3'
 summaryLength = 20
+timeout = 300000
 
 [params]
   copyrightFrom = '2017'
