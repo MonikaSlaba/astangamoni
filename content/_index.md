@@ -9,7 +9,7 @@ menu:
 
 ---
 
-# ROZVRH  LEKCÍ
+# ROZVRH  LEKCÍ OD ZÁŘÍ 2023
 
 - PO - 19:00 Yogaway Beroun (90 min)
 - ÚT - 7:30 Yogaway Beroun (90 min)
