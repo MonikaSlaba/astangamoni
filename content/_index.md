@@ -50,7 +50,7 @@ menu:
 | *až 10 lekcí (90 min a 200 Kč)*                                              |
 | Soukromá lekce 60 / 90 min                                 | 800 / 1 200 Kč  |
 | *lekce pro 1-3 osoby ve Vámi určený čas*                                     |
-| Kurz Úvod do Aštanga jógy pro začátečníky leden-březen 2024| 3 250 Kč        |
+| Kurz Úvod do Aštanga jógy pro začátečníky-Yogaway čt 19 hod| 3 250 Kč        |
 | *leden-březen 2024 - 13 lekcí (90 min)*
 
 # REZERVUJTE SI SVOU LEKCI
