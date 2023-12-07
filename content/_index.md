@@ -16,7 +16,7 @@ menu:
 - ÚT - 19:30 Fyziovital Osek + ONLINE (90 min)
 - ST - prostor pro Vaši dopolední soukromou lekci, napište mi [sms](/kontakty) :)
 - ČT - 7:30 Yogaway Beroun (90 min)
-- ČT - 19:00 Yogaway Beroun (90 min) - začátečníci
+- ČT - 19:00 Yogaway Beroun (90 min)-začátečníci. Leden-březen - nový kurz Úvod do Aštanga jógy (13 lekcí)
 
 ![](Ilustrace-rozvrhu.png)
 
@@ -50,6 +50,8 @@ menu:
 | *až 10 lekcí (90 min a 200 Kč)*                                              |
 | Soukromá lekce 60 / 90 min                                 | 800 / 1 200 Kč  |
 | *lekce pro 1-3 osoby ve Vámi určený čas*                                     |
+| Kurz Úvod do Aštanga jógy pro začátečníky leden-březen 2024| 3 250 Kč        |
+| *leden-březen 2024 - 13 lekcí (90 min)*
 
 # REZERVUJTE SI SVOU LEKCI
 
