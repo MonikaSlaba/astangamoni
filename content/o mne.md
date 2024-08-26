@@ -19,10 +19,14 @@ Mé lekce jsou dynamické, propojují dech a pohyb (vinyasa). Stálost sestavy d
 
 Budete-li praktikovat často a pravidelně, jóga Vás změní. Umožní Vám se uvolnit. Z lekce budete odcházet radostní, plní síly a energie, která Vám vydrží do druhého dne i déle. Jóga je veliká čarodějka, nádherný dar pro toho, kdo uvěří v její moc...
 
-# O MONICE
+# ABSOLVOVANÉ KURZY, STÁŽE, WORKSHOPY
 
-S jógou jsem začala v roce 2005. Mými nejvýznamnějšími učiteli jsou Václav Krejčík (2005-2010, Power yoga, [Energy studio, Praha](http://www.energystudio.cz/)), Láďa Pokorný (2010-doposud, Aštanga jóga, [Ánanda Ashtanga Yoga Shala, Praha](http://www.anandashala.cz/)), má samostatná praxe, mí jógoví žáci a sám život. Učím od roku 2013. Jóga má zásluhu na mé osobní proměně, je mi velikou inspirací, přístavem klidu a míru.
+S jógou jsem začala v roce 2005. Tehdy mi pomohla od bolesti zad při sezení v kanceláři. Ani jsem netušila, co všechno nového mi ještě přinese ... Jóga má zásluhu na mé osobní proměně, je mi velikou inspirací, cestou k sebepoznání, k vyšší autentičnosti bytí, přístavem klidu a míru. Děkuji svému muži a své nejbližší rodině, že můžu :) S radostí, vděčností a pokorou sdílím její dary dál.
 
-V tom, co učím, čerpám také z teacher trainings, workshopů a lekcí dalších (aštangových) učitelů, které jsem navštívila/navštěvuji: Monika Žítková (ČR), Katarína Mikulandová (ČR), Dalibor Štědronský (ČR), David Vendetti (USA), Yogi Kamal Singh (Rishikesh, Indie), Boris Gueorguiev (Rakousko), Bobbi Rae Misiti (USA), Kathy Cooper (USA), Manju Pattabhi Jois (Indie, USA), Petra Vonšovská, Pavel Porada (ČR), Jaro Pávek (SR), Ajay Kumar (Mysore, Indie), Arnaud Kancel (FR), David Swenson (USA), Laruga Glacer (Švédsko), Kino MacGregor (USA); Mark Robberds (Australie)
+Mými nejvýznamnějšími učiteli jsou Václav Krejčík (2005-2010, Power yoga, [Energy studio, Praha](http://www.energystudio.cz/)), Láďa Pokorný nového (2010-doposud, Aštanga jóga, [Ánanda Ashtanga Yoga Shala, Praha](http://www.anandashala.cz/)), má samostatná praxe, mí jógoví žáci a sám život.
 
-Mé učení velmi silně ovlivnily i sebepoznávací transformační pobyty: Cesta tančícího srdce (Guy Barrington, Zdeněk Vencl ad.), Plavání s delfíny (Sataya Reef; Nader Gaber, Fatima Jalout), Posvátná cesta po čakrách Egypta s plavbou po Nilu (Míla Aine Hlávková, Ashraf El Masry).
+Učím od roku 2013 na základě absolvování dvou MŠMT akreditovaných kurzů - Instruktor Power Yogy a Instruktor Aštanga jógy (2x200 hodin).
+
+Při svých lekcích čerpám mj. z teacher trainings, workshopů a lekcí dalších (aštangových) učitelů, které jsem navštívila/navštěvuji: Monika Žítková (ČR), Katarína Mikulandová (ČR), Dalibor Štědronský (ČR), David Vendetti (USA), Yogi Kamal Singh (Rishikesh, Indie), Boris Gueorguiev (Rakousko), Bobbi Rae Misiti (USA), Kathy Cooper (USA), Manju Pattabhi Jois (Indie, USA), Petra Vonšovská, Pavel Porada (ČR), Jaro Pávek (SR), Ajay Kumar (Mysore, Indie), Arnaud Kancel (FR), David Swenson (USA), Laruga Glacer (Švédsko), Kino MacGregor (USA); Mark Robberds (Australie)
+
+V tom, co předávám, mne velmi silně ovlivnily i sebepoznávací transformační pobyty: Cesta tančícího srdce (Guy Barrington, Zdeněk Vencl ad.), Plavání s delfíny (Sataya Reef; Nader Gaber, Fatima Jalout), Posvátná cesta po čakrách Egypta s plavbou po Nilu (Míla Aine Hlávková, Ashraf El Masry).
