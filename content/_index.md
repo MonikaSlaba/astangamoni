@@ -14,7 +14,7 @@ menu:
 - PO - 19:00 Yogaway Beroun (90 min)
 - ÚT - 7:30 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek + ONLINE (90 min)
-- ST - soukromé lekce - přihlášky zde [sms](/kontakty) :)
+- ST - soukromé lekce - přihlášky zde [SMS](/kontakty) :)
 - ČT - 7:30 Yogaway Beroun (90 min)
 - ČT - 19:00 Yogaway Beroun (90 min)
 
@@ -26,7 +26,7 @@ menu:
 >
 >Každé úterý v 19.30 hod je možné se k fyzické lekci připojit i ONLINE. Link zašlu na vyžádání do sms.
 >
->**Na lekci se hlaste předem do [sms](/kontakty)**
+>**Na lekci se hlaste předem do [SMS](/kontakty)**
 >
 >#### Platby
 > - platby v Yogaway na lekci cash / den před lekcí na účet (pošlu)
