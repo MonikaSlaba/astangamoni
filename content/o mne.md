@@ -21,7 +21,7 @@ Budete-li praktikovat často a pravidelně, jóga Vás změní. Umožní Vám se
 
 # ABSOLVOVANÉ KURZY, STÁŽE, WORKSHOPY
 
-S jógou jsem začala v roce 2005. Tehdy mi pomohla od bolesti zad při sezení v kanceláři. Ani jsem netušila, co všechno nového mi ještě přinese ... Jóga má zásluhu na mé osobní proměně, je mi velikou inspirací, cestou k sebepoznání, k vyšší autentičnosti bytí, přístavem klidu a míru. Děkuji svému muži a své nejbližší rodině, že můžu :) S radostí, vděčností a pokorou sdílím její dary dál.
+S jógou jsem začala v roce 2005. Tehdy mi pomohla od bolesti zad při sezení v kanceláři. Ani jsem netušila, co všechno nového mi ještě přinese ... Jóga má zásluhu na mé osobní proměně, je mi velikou inspirací, cestou k sebepoznání, k vyšší autentičnosti bytí, přístavem klidu a míru. Děkuji svému muži a své nejbližší rodině, že můžu s radostí, vděčností a pokorou sdílet její dary dál.
 
 Mými nejvýznamnějšími učiteli jsou Václav Krejčík (2005-2010, Power yoga, [Energy studio, Praha](http://www.energystudio.cz/)), Láďa Pokorný (2010-doposud, Aštanga jóga, [Ánanda Ashtanga Yoga Shala, Praha](http://www.anandashala.cz/)), má samostatná praxe, mí jógoví žáci a sám život.
 
