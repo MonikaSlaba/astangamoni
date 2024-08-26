@@ -24,7 +24,7 @@ menu:
 >
 >Všechny lekce jsou přizpůsobeny příchozím účastníkům. Můžete se mnou zažít lekci ve stylu mysore, vedenou lekci nebo jejich kombinaci. Ladíme 1. a 2. sérii aštanga jógy.
 >
->Každé úterý v 19.30 hod je možné se k fyzické lekci připojit i ONLINE. Link zašlu na vyžádání do sms.
+>Každé úterý v 19.30 hod je možné se k fyzické lekci připojit i ONLINE. Link zašlu na vyžádání do SMS.
 >
 >**Na lekci se hlaste předem do [SMS](/kontakty)**
 >
