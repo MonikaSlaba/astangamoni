@@ -1,6 +1,6 @@
 ---
 title: "Jógový retreat: Lorien Nenačovice, 1-3.11.2024"
-image: "/aktuality/Lorien.jpg"
+image: "/aktuality/Lorien2.jpg"
 imagePosition: 35
 ---
 
