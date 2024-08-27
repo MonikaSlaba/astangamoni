@@ -9,14 +9,14 @@ menu:
 
 ---
 
-# ROZVRH  LEKCÍ OD ZÁŘÍ 2023
+# ROZVRH  LEKCÍ OD ZÁŘÍ 2024
 
 - PO - 19:00 Yogaway Beroun (90 min)
 - ÚT - 7:30 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek + ONLINE (90 min)
 - ST - soukromé lekce - přihlášky zde [SMS](/kontakty) :)
 - ČT - 7:30 Yogaway Beroun (90 min)
-- ČT - 19:00 Yogaway Beroun (90 min)
+- ČT - 19:00 Yogaway Beroun (90 min) - Kurz začátečníci září-prosinec
 
 ![](Ilustrace-rozvrhu.png)
 
@@ -41,9 +41,11 @@ menu:
 -->
 |                                                            |                 |
 | ---------------------------------------------------------- | ---------------:|
-| Yogaway jednotlivá lekce 90 min                            | 250 Kč          |
-| Fyziovital jednotlivá lekce 90 min                         | 250 Kč          |
-| Lekce ONLINE 90 min                                        | 250 Kč          |
+| Yogaway jednotlivá lekce 90 min                            |   250 Kč          |
+| Fyziovital jednotlivá lekce 90 min                         |   250 Kč          |
+| Lekce ONLINE 90 min                                        |   250 Kč
+| Kurz začátečníci ČT 19.00, září-prosinec 2024              | 3 500 Kč        |
+| *14 lekcí (90 min a 250 Kč)*
 | Permanentka 1 měsíc malá                                   | 1 250 Kč        |
 | *5 lekcí (90 min a 250 Kč)*                                                  |
 | Permanentka 1 měsíc velká                                  | 2 500 Kč        |
