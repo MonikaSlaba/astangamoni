@@ -21,12 +21,14 @@ Budete-li praktikovat často a pravidelně, jóga Vás změní. Umožní Vám se
 
 # ABSOLVOVANÉ KURZY, STÁŽE, WORKSHOPY
 
-S jógou jsem začala v roce 2005. Tehdy mi pomohla od bolesti zad při sezení v kanceláři. Ani jsem netušila, co všechno nového mi ještě přinese ... Jóga má zásluhu na mé osobní proměně, je mi velikou inspirací, cestou k sebepoznání, k vyšší autentičnosti bytí, přístavem klidu a míru.
-
-Mými nejvýznamnějšími učiteli jsou Václav Krejčík (2005-2010, Power yoga, [Energy studio, Praha](http://www.energystudio.cz/)), Láďa Pokorný (2010-doposud, Aštanga jóga, [Ánanda Ashtanga Yoga Shala, Praha](http://www.anandashala.cz/)), má samostatná praxe, mí jógoví žáci a sám život. Děkuji svému muži a své nejbližší rodině za shovívavost, děkuji, že mohu s radostí, vděčností a pokorou sdílet dary jógy dál.
+Jógu jsem začala praktikovat v roce 2005. Tehdy mi pomohla od bolesti zad při sezení v kanceláři. Ani jsem netušila, co všechno nového mi ještě přinese... Jóga má zásluhu na mé osobní proměně, je mi velikou inspirací, cestou k sebepoznání, k vyšší autentičnosti bytí, přístavem klidu a míru.
 
 Učím od roku 2013 na základě absolvování dvou MŠMT akreditovaných kurzů - Instruktor Power Yogy a Instruktor Aštanga jógy (2x200 hodin).
+
+Mými nejvýznamnějšími učiteli jsou Václav Krejčík (2005-2010, Power yoga, [Energy studio, Praha](http://www.energystudio.cz/)), Láďa Pokorný (2010-doposud, Aštanga jóga, [Ánanda Ashtanga Yoga Shala, Praha](http://www.anandashala.cz/)), má samostatná praxe, mí jógoví žáci a sám život.
 
 Při svých lekcích čerpám mj. z teacher trainings, workshopů a lekcí dalších (aštangových) učitelů, které jsem navštívila/navštěvuji: Monika Žítková (ČR), Katarína Mikulandová (ČR), Dalibor Štědronský (ČR), David Vendetti (USA), Yogi Kamal Singh (Rishikesh, Indie), Boris Gueorguiev (Rakousko), Bobbi Rae Misiti (USA), Kathy Cooper (USA), Manju Pattabhi Jois (Indie, USA), Petra Vonšovská, Pavel Porada (ČR), Jaro Pávek (SR), Ajay Kumar (Mysore, Indie), Arnaud Kancel (FR), David Swenson (USA), Laruga Glacer (Švédsko), Kino MacGregor (USA); Mark Robberds (Australie)
 
 V tom, co předávám, mne velmi silně ovlivnily i sebepoznávací transformační pobyty: Cesta tančícího srdce (Guy Barrington, Zdeněk Vencl ad.), Plavání s delfíny (Sataya Reef; Nader Gaber, Fatima Jalout), Posvátná cesta po čakrách Egypta s plavbou po Nilu (Míla Aine Hlávková, Ashraf El Masry).
+
+Děkuji svému muži a své nejbližší rodině za shovívavost, děkuji, že mohu s radostí, vděčností a pokorou sdílet dary jógy dál.
