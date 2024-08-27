@@ -6,7 +6,7 @@ imagePosition: 55
 
 ---
 
-Workshop Aštanga jóga v různých obdobích menstruačního cyklu života ženy, 4.-5.10.2024, Beroun
+Workshop: Aštanga jóga v různých obdobích menstruačního cyklu života ženy, 4-5.10.2024, Beroun
 
 Pá: 17-20 hod:
 - vedená lekce/mysore
