@@ -1,5 +1,5 @@
 ---
-title: "Kurz Aštanga jógy pro začátečníky - září-prosinec 2024, 19 hod, Yogaway, Beroun"
+title: "Kurz Aštanga jógy pro začátečníky: září-prosinec 2024, 19 hod, Yogaway, Beroun"
 date: 2022-09-30T16:14:00+02:00
 image: "/aktuality/Happy-studio.webp"
 imagePosition: 87

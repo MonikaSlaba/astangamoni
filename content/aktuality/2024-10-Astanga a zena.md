@@ -18,7 +18,7 @@ spinkáme každý doma
 So: 11-16 hod:
 - očistné krije a pranayama (řízení dechu)
 - oběd v indické restauraci
-- povídání, fyzická praxe
+- povídání, jemná fyzická praxe
 
 Kdo máte o workshop zájem, jste srdečně vítáni.
 
