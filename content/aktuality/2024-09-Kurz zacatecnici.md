@@ -1,11 +1,11 @@
 ---
-title: "Kurz: Aštanga jóga pro začátečníky září-prosinec 2024, 19 hod, Yogaway, Beroun"
+title: "Kurz: Úvod do Aštanga jógy září-prosinec 2024, 19 hod, Yogaway, Beroun"
 date: 2022-09-30T16:14:00+02:00
 image: "/aktuality/Zacatecnici.jpg"
 imagePosition: 87
 ---
 
-Kurz: Aštanga jóga pro začátečníky září-prosinec 2024, 19 hod, Yogaway, Beroun
+Kurz: Úvod do Aštanga jógy září-prosinec 2024, 19 hod, Yogaway, Beroun
 
 Kurz je vhodný pro všechny, kteří jsou odhodláni PRAVIDELNĚ pracovat sami na sobě, kteří jsou ochotní s TRPĚLIVOSTÍ čelit výzvám vlastního těla a mysli. Všem, kteří v sobě touží probudit něco nového 😊❤️🙏🍀🌈
 
