@@ -7,6 +7,10 @@ imagePosition: 87
 
 Kurz: Aštanga jóga pro začátečníky září-prosinec 2024, 19 hod, Yogaway, Beroun
 
+Kurz je vhodný pro všechny, kteří jsou odhodláni PRAVIDELNĚ pracovat sami na sobě, kteří jsou ochotní s TRPĚLIVOSTÍ čelit výzvám vlastního těla a mysli. Všem, kteří v sobě touží probudit něco nového 😊❤️🙏🍀🌈
+
+Vaše momentální fyzické dispozice nejsou důležité. Důležitá je ochota podívat se na to, jak si vedu nyní, kde jsou mé hranice, a tyto postupně posouvat dle svých možností.
+
 Zváni jsou všichni, kdo chtějí zakusit rytmus, v němž plyne 1. série aštanga jógy, bez ohledu na to, kolik síly a flexibility mají,
 všichni, koho zajímá osmidílná královská stezka jógy ...
 
@@ -16,10 +20,12 @@ V kurzu klademe důraz na uvolněné a pohodlné provedení ásán, na základn�
 3. drišti (směr pohledu očí) a
 4. princip vinyasy (propojení dechu a pohybu předepsaným způsobem)
 
-Těším se na Vás,
-
-Monika
+Lekce probíhají každý čtvrtek od 19 hod (kromě 19 a 26.9.) ve studiu Yogaway, Na Parkáně 367/14, Beroun.
+Kurz je čtvrtletní od září do prosince.
 
 Cena: 3 500 Kč (14 lekcí)
 
-Přihlášky na monika.sla@seznam.cz, 774 177 583
+Přihlášky na monika.sla@seznam.cz, 774177583
+
+Těším se na Vás,
+Monika
