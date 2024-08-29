@@ -15,7 +15,7 @@ menu:
 - ÚT - 7:30 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek + ONLINE (90 min)
 - ST - soukromé lekce - přihlášky zde [SMS](/kontakty) :)
-- ČT - 7:30 Yogaway Beroun (90 min)
+- ČT - 8:30 Yogaway Beroun (90 min) - Nový čas!!!
 - ČT - 19:00 Yogaway Beroun (90 min) - Kurz Úvod do Aštanga jógy září-prosinec
 
 ![](Ilustrace-rozvrhu.png)
