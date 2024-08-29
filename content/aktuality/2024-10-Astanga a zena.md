@@ -1,6 +1,6 @@
 ---
 title: "Workshop: Aštanga jóga v různých obdobích menstruačního cyklu života ženy, 4-5.10.2024, Beroun"
-date: 2023-07-02T16:12:25+02:00
+date: 2024-09-27T16:12:25+02:00
 image: "/aktuality/Zena.jpg"
 imagePosition: 55
 

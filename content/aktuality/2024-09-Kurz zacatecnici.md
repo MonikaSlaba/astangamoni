@@ -1,6 +1,6 @@
 ---
 title: "Kurz: Úvod do Aštanga jógy září-prosinec 2024, 19 hod, Yogaway, Beroun"
-date: 2022-09-30T16:14:00+02:00
+date: 2024-09-26T16:14:00+02:00
 image: "/aktuality/Zacatecnici.jpg"
 imagePosition: 87
 ---
