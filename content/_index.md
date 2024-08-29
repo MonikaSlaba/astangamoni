@@ -56,4 +56,4 @@ menu:
 
 # REZERVUJTE SI SVOU LEKCI
 
-nebo požádejte o novinky [**zde**](/kontakty).
+nebo požádejte o zasílání novinek e-mailem [**zde**](/kontakty).
