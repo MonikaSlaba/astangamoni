@@ -12,13 +12,13 @@ menu:
 # ROZVRH LEKCÍ OD ZÁŘÍ
 
 - PO - 19:00 Yogaway Beroun (90 min)
-- PO - 16:30 Gymnázium Václava Hraběte, Hořovice (60 min) - Kurz mládež říjen24-leden25
+- PO - 16:30 Gymnázium Václava Hraběte, Hořovice (60 min) - Kurz jógy mládež říjen24-leden25
 - ÚT - 7:30 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek + ONLINE (90 min)
 - ST - soukromé lekce - přihlášky zde [SMS](/kontakty) :)
 - ČT - 8:30 Yogaway Beroun (90 min) - Nový čas!!!
 - ČT - 19:00 Yogaway Beroun (90 min) - Kurz Úvod do Aštanga jógy září-prosinec24
-- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz mládež říjen24-leden25
+- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy mládež říjen24-leden25
 
 ![](Ilustrace-rozvrhu.png)
 
