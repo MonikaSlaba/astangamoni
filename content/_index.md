@@ -45,13 +45,13 @@ menu:
 | ---------------------------------------------------------- | ---------------:|
 | Yogaway jednotlivá lekce 90 min                            |   250 Kč        |
 | Fyziovital jednotlivá lekce 90 min                         |   250 Kč        |
-| Lekce ONLINE 90 min                                        |   250 Kč
+| Lekce ONLINE 90 min                                        |   250 Kč        |
 | Kurz Úvod do Aštanga jógy ČT 19.00, září-prosinec 2024     | 3 500 Kč        |
-| *14 lekcí (90 min a 250 Kč)*
+| *14 lekcí (90 min a 250 Kč)*                                                |
 | Kurz jógy PO 16.30, říjen 24-leden 25                      | 2 250 Kč        |
-| *15 lekcí (60 min a 150 Kč)*
+| *15 lekcí (60 min a 150 Kč)*                                                 |
 | Kurz jógy PÁ 16.00, říjen 24-leden 25                      | 1 600 Kč        |
-| *16 lekcí (60 min a 150 Kč)*
+| *16 lekcí (60 min a 150 Kč)*                                                 |
 | Permanentka malá - 5 týdnů                                 | 1 250 Kč        |
 | *5 lekcí (90 min a 250 Kč)*                                                  |
 | Permanentka velká - 10 týdnů                               | 2 500 Kč        |
