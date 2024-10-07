@@ -30,6 +30,6 @@ Mí nejvýznamnější učitelé jsou Václav Krejčík (2005-2010, Power yoga,�
 
 Při svých lekcích čerpám také z víkendových workshopů a lekcí dalších (aštangových) učitelů, které jsem navštívila/navštěvuji: Monika Žítková (ČR), Katarína Mikulandová (ČR), Dalibor Štědronský (ČR), David Vendetti (USA), Yogi Kamal Singh (Rishikesh, Indie), Boris Gueorguiev (Rakousko), Bobbi Rae Misiti (USA), Kathy Cooper (USA), Manju Pattabhi Jois (Indie, USA), Petra Vonšovská, Pavel Porada (ČR), Jaro Pávek (SR), Ajay Kumar (Mysore, Indie), Arnaud Kancel (FR), David Swenson (USA), Laruga Glacer (Švédsko), Kino MacGregor (USA), Mark Robberds (Australie), Ty Landrum (USA).
 
-V tom, co předávám, mne velmi silně ovlivnily i sebepoznávací transformační pobyty: Cesta tančícího srdce (Guy Barrington, Zdeněk Vencl ad.), Plavání s delfíny (Sataya Reef; Nader Gaber, Fatima Jalout), Posvátná cesta po čakrách Egypta s plavbou po Nilu (Míla Aine Hlávková, Ashraf El Masry).
+V tom, co předávám, mne ovlivnily i sebepoznávací transformační pobyty: Cesta tančícího srdce (Guy Barrington, Zdeněk Vencl ad.), Plavání s delfíny (Sataya Reef; Nader Gaber, Fatima Jalout), Posvátná cesta po čakrách Egypta s plavbou po Nilu (Míla Aine Hlávková, Ashraf El Masry).
 
 Děkuji svému muži a své nejbližší rodině za podporu a shovívavost, děkuji, že mohu s radostí, vděčností a pokorou sdílet dary jógy dál.
