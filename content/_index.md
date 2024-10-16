@@ -12,13 +12,13 @@ menu:
 # ROZVRH LEKCÍ OD ZÁŘÍ
 
 - PO - 19:00 Yogaway Beroun (90 min)
-- PO - 16:30 Gymnázium Václava Hraběte, Hořovice (60 min) - Kurz jógy mládež říjen24-leden25
+- PO - 16:30 Gymnázium Václava Hraběte, Hořovice (60 min) - Kurz jógy pro mládež říjen24-leden25
 - ÚT - 7:30 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek + ONLINE (90 min)
 - ST - soukromé lekce - přihlášky zde [SMS](/kontakty) :)
 - ČT - 8:30 Yogaway Beroun (90 min) - Nový čas!!!
 - ČT - 19:00 Yogaway Beroun (90 min) - Kurz Úvod do Aštanga jógy září-prosinec24
-- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy mládež říjen24-leden25
+- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy pro mládež říjen24-leden25
 
 ![](Ilustrace-rozvrhu.png)
 
@@ -48,15 +48,15 @@ menu:
 | Lekce ONLINE 90 min                                        |   250 Kč        |
 | Kurz Úvod do Aštanga jógy ČT 19.00, září-prosinec 2024     | 3 500 Kč        |
 | *14 lekcí (90 min a 250 Kč)*                                                 |
-| Kurz jógy mládež PO 16.30, říjen 24-leden 25               | 2 250 Kč        |
+| Kurz jógy pro mládež PO 16.30, říjen 24-leden 25           | 2 250 Kč        |
 | *15 lekcí (60 min a 150 Kč)*                                                 |
-| Kurz jógy mládež PÁ 16.00, říjen 24-leden 25               | 1 600 Kč        |
+| Kurz jógy pro mládež PÁ 16.00, říjen 24-leden 25           | 1 600 Kč        |
 | *16 lekcí (60 min a 100 Kč)*                                                 |
 | Permanentka malá - 5 týdnů                                 | 1 250 Kč        |
 | *5 lekcí (90 min a 250 Kč)*                                                  |
 | Permanentka velká - 10 týdnů                               | 2 500 Kč        |
 | *10 lekcí (90 min a 250 Kč)*                                                 |
-| Soukromá lekce 60 / 90 min                                 | 800 / 1 200 Kč  |
+| Soukromá lekce 60 / 90 min                                 | 1000 / 1 500 Kč |
 | *lekce pro 1-3 osoby ve Vámi určený čas*                                     |
 
 
