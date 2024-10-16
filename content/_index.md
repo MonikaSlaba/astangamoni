@@ -31,7 +31,7 @@ menu:
 >**Na lekci se hlaste předem do [SMS](/kontakty)**
 >
 >#### Platby
-> - platby v Yogaway na lekci cash / den před lekcí na účet (pošlu)
+> - platby v Yogaway na lekci cash nebo na účet
 > - platby za lekci ONLINE se hradí den před lekcí na účet
 > - platby ve Fyziovital se hradí na recepci
 
