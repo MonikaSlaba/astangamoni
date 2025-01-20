@@ -16,7 +16,7 @@ menu:
 - ST - soukromé lekce nebo ONLINE - přihlášky zde [SMS](/kontakty) :)
 - ČT - 8:30 Yogaway Beroun (90 min)
 - ČT - 19:00 Yogaway Beroun (90 min) - Kurz Úvod do Aštanga jógy leden-březen 2025
-- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy pro mládež říjen24-leden25
+- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy pro mládež únor-červen 2025
 
 ![](Ilustrace-rozvrhu.png)
 
@@ -30,8 +30,9 @@ menu:
 >
 >#### Platby
 > - platby v Yogaway na účet nebo na lekci cash
-> - platby za soukromé lekce nebo lekci ONLINE se hradí nejpozději den před lekcí na účet
 > - platby ve Fyziovital se hradí na recepci
+> - platba za kurz v ZŠ Počaply se hradí na účet
+> - platby za soukromé lekce nebo lekci ONLINE se hradí nejpozději den před lekcí na účet
 
 # CENÍK LEKCÍ
 
@@ -46,8 +47,8 @@ menu:
 | Lekce ONLINE 90 min                                        |   300 Kč        |
 | Kurz Úvod do Aštanga jógy ČT 19.00, leden-březen 2025      | 2 500 Kč        |
 | *10 lekcí (90 min a 250 Kč)*                               |                 |
-| Kurz jógy pro mládež PÁ 16.00, říjen 24-leden 25           | 1 600 Kč        |
-| *16 lekcí (60 min a 100 Kč)*                                                 |
+| Kurz jógy pro mládež PÁ 16.00, únor-červen 2025            | 1 700 Kč        |
+| *17 lekcí (60 min a 100 Kč)*                                                 |
 | Permanentka malá - 5 týdnů                                 | 1 250 Kč        |
 | *5 lekcí (90 min a 250 Kč)*                                                  |
 | Permanentka velká - 10 týdnů                               | 2 500 Kč        |
