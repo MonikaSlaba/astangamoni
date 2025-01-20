@@ -12,8 +12,8 @@ menu:
 # ROZVRH LEKCÍ V ROCE 2025
 
 - PO - 19:00 Yogaway Beroun (90 min)
-- ÚT - 19:30 Fyziovital Osek + ONLINE (90 min)
-- ST - soukromé lekce - přihlášky zde [SMS](/kontakty) :)
+- ÚT - 19:30 Fyziovital Osek (90 min)
+- ST - soukromé lekce nebo ONLINE - přihlášky zde [SMS](/kontakty) :)
 - ČT - 8:30 Yogaway Beroun (90 min)
 - ČT - 19:00 Yogaway Beroun (90 min) - Kurz Úvod do Aštanga jógy leden-březen 2025
 - PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy pro mládež říjen24-leden25
@@ -24,13 +24,13 @@ menu:
 >
 >Všechny lekce jsou přizpůsobeny příchozím účastníkům. Můžete se mnou zažít lekci ve stylu mysore, vedenou lekci nebo jejich kombinaci. Ladíme 1. a 2. sérii aštanga jógy.
 >
->Každé úterý v 19.30 hod je možné se k fyzické lekci připojit i ONLINE. Link zašlu na vyžádání do SMS.
+>Každou středu probíhají soukromé lekce nebo lekce ONLINE dle domluvy s Vámi. Link zašlu na vyžádání do SMS.
 >
 >**Na lekci se hlaste předem do [SMS](/kontakty)**
 >
 >#### Platby
 > - platby v Yogaway na účet nebo na lekci cash
-> - platby za lekci ONLINE se hradí den před lekcí na účet
+> - platby za soukromé lekce nebo lekci ONLINE se hradí nejpozději den před lekcí na účet
 > - platby ve Fyziovital se hradí na recepci
 
 # CENÍK LEKCÍ
