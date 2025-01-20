@@ -9,13 +9,13 @@ menu:
 
 ---
 
-# ROZVRH LEKCÍ OD ZÁŘÍ
+# ROZVRH LEKCÍ V ROCE 2025
 
-- PO - 19:00 Yogaway Beroun (90
+- PO - 19:00 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek + ONLINE (90 min)
 - ST - soukromé lekce - přihlášky zde [SMS](/kontakty) :)
-- ČT - 8:30 Yogaway Beroun (90 min) - Nový čas!!!
-- ČT - 19:00 Yogaway Beroun (90 min) - Kurz Úvod do Aštanga jógy září-prosinec24
+- ČT - 8:30 Yogaway Beroun (90 min)
+- ČT - 19:00 Yogaway Beroun (90 min) - Kurz Úvod do Aštanga jógy leden-březen 2025
 - PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy pro mládež říjen24-leden25
 
 ![](Ilustrace-rozvrhu.png)
@@ -29,14 +29,14 @@ menu:
 >**Na lekci se hlaste předem do [SMS](/kontakty)**
 >
 >#### Platby
-> - platby v Yogaway na lekci cash nebo na účet
+> - platby v Yogaway na účet nebo na lekci cash
 > - platby za lekci ONLINE se hradí den před lekcí na účet
 > - platby ve Fyziovital se hradí na recepci
 
 # CENÍK LEKCÍ
 
 <!--
-| Kurz pro (věčné) začátečníky ČTVRTEK od 19 hod: 04-06/2023 | 250 / 1000 Kč   |
+| Kurz pro (věčné) začátečníky ČTVRTEK od 19 hod: 01-03/2025 | 250 / 1000 Kč   |
 | *Jednotlivá lekce 250 Kč / permanentka kal. měsíc 5 lekcí (90 min a 200 Kč)* |
 -->
 |                                                            |                 |
@@ -44,8 +44,8 @@ menu:
 | Yogaway jednotlivá lekce 90 min                            |   300 Kč        |
 | Fyziovital jednotlivá lekce 90 min                         |   300 Kč        |
 | Lekce ONLINE 90 min                                        |   300 Kč        |
-| Kurz Úvod do Aštanga jógy ČT 19.00, září-prosinec 2024     | 3 500 Kč        |
-| *14 lekcí (90 min a 250 Kč)*                               |                 |
+| Kurz Úvod do Aštanga jógy ČT 19.00, leden-březen 2025      | 2 500 Kč        |
+| *10 lekcí (90 min a 250 Kč)*                               |                 |
 | Kurz jógy pro mládež PÁ 16.00, říjen 24-leden 25           | 1 600 Kč        |
 | *16 lekcí (60 min a 100 Kč)*                                                 |
 | Permanentka malá - 5 týdnů                                 | 1 250 Kč        |
