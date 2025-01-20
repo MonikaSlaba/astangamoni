@@ -24,6 +24,8 @@ Instagram: [monika.slaba](https://instagram.com/monika.slaba.7?igshid=ZDdkNTZiN
 
 **Fyziovital**, Osek u Hořovic 283,  [www.fyziovital.cz](https://www.fyziovital.cz/)
 
+**ZŠ Počaply**, Tyršova 136, Králův Dvůr – Počaply,  [www.zspocaply.eu](https://www.zspocaply.eu/vyuka/krouzky/)
+
 **Soukromé lekce** - napište mi SMS :)
 >
 
