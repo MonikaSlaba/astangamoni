@@ -5,7 +5,7 @@ image: "/aktuality/Zacatecnici.jpg"
 imagePosition: 87
 ---
 
-Kurz: Úvod do Aštanga jógy leden-březen 2025, 19 hod, Yogaway, Beroun
+Kurz: Úvod do Aštanga jógy ZÁŘÍ-PROSINEC 2025, 19 hod, Yogaway, Beroun
 
 Kurz je vhodný pro všechny, kteří jsou odhodláni PRAVIDELNĚ pracovat sami na sobě, kteří jsou ochotní s TRPĚLIVOSTÍ čelit výzvám vlastního těla a mysli. Všem, kteří v sobě touží probudit něco nového 😊❤️🙏🍀🌈
 
@@ -21,9 +21,9 @@ V kurzu klademe důraz na uvolněné a pohodlné provedení ásán, na základn�
 4. princip vinyasy (propojení dechu a pohybu předepsaným způsobem)
 
 Lekce probíhají každý čtvrtek od 19 hod ve studiu Yogaway, Na Parkáně 367/14, Beroun.
-Kurz je čtvrtletní od ledna do března.
+Kurz je čtvrtletní od ZÁŘÍ do PROSINCE.
 
-Cena: 2 500 Kč (10 lekcí)
+Cena: 3 250 Kč (13 lekcí)
 
 Přihlášky na monika.sla@seznam.cz, 774177583
 

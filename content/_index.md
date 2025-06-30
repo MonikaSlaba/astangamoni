@@ -49,10 +49,10 @@ menu:
 | Permanentka velká - 10 týdnů                               | 2 500 Kč        |
 | *10 lekcí (90 min a 250 Kč)*                                                 |
 | *lekce pro 1-3 osoby ve Vámi určený čas*                                     |
-| Kurz Úvod do Aštanga jógy ČT 19.00, ZÁŘÍ-PROSINEC 2025     | 2 500 Kč        |
-| *10 lekcí (90 min a 250 Kč)*                                                 |
-| Kurz jógy pro mládež PÁ 16.00, ZÁŘÍ 2025 -LEDEN 2026       | 1 700 Kč        |
-| *17 lekcí (60 min a 100 Kč)*                                                 |
+| Kurz Úvod do Aštanga jógy ČT 19.00, ZÁŘÍ-PROSINEC 2025     | 3 250 Kč        |
+| *13 lekcí (90 min a 250 Kč)*                                                 |
+| Kurz jógy pro mládež PÁ 16.00, ZÁŘÍ 2025 -LEDEN 2026       | 2 500 Kč        |
+| *18 lekcí (60 min a 140 Kč)*                                                 |
 
 
 # REZERVUJTE SI SVOU LEKCI
