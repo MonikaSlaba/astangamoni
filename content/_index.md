@@ -9,14 +9,14 @@ menu:
 
 ---
 
-# ROZVRH LEKCÍ V ROCE 2025
+# PRÁZDNINOVÝ ROZVRH LEKCÍ V ROCE 2025
 
 - PO - 19:00 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek (90 min)
 - ST - soukromé lekce nebo ONLINE - přihlášky zde [SMS](/kontakty) :)
 - ČT - 8:30 Yogaway Beroun (90 min)
-- ČT - 19:00 Yogaway Beroun (90 min) - Kurz Úvod do Aštanga jógy leden-březen 2025
-- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy pro mládež únor-červen 2025
+- ČT - 19:00 Yogaway Beroun (90 min) - Kurz Úvod do Aštanga jógy ZÁŘÍ-PROSINEC 2025
+- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy pro mládež ZÁŘÍ 2025-LEDEN 2026
 
 ![](Ilustrace-rozvrhu.png)
 
@@ -42,19 +42,17 @@ menu:
 -->
 |                                                            |                 |
 | ---------------------------------------------------------- | ---------------:|
-| Yogaway jednotlivá lekce 90 min                            |   300 Kč        |
-| Fyziovital jednotlivá lekce 90 min                         |   300 Kč        |
-| Lekce ONLINE 90 min                                        |   300 Kč        |
-| Kurz Úvod do Aštanga jógy ČT 19.00, leden-březen 2025      | 2 500 Kč        |
-| *10 lekcí (90 min a 250 Kč)*                               |                 |
-| Kurz jógy pro mládež PÁ 16.00, únor-červen 2025            | 1 700 Kč        |
-| *17 lekcí (60 min a 100 Kč)*                                                 |
+| Jednotlivá lekce Yogaway, Fiziovital, ONLINE - 90 min      |   300 Kč        |
+| Soukromá lekce - 60/90 min                                 | 1 000/1 500 Kč |
 | Permanentka malá - 5 týdnů                                 | 1 250 Kč        |
 | *5 lekcí (90 min a 250 Kč)*                                                  |
 | Permanentka velká - 10 týdnů                               | 2 500 Kč        |
 | *10 lekcí (90 min a 250 Kč)*                                                 |
-| Soukromá lekce 60 / 90 min                                 | 1000 / 1 500 Kč |
 | *lekce pro 1-3 osoby ve Vámi určený čas*                                     |
+| Kurz Úvod do Aštanga jógy ČT 19.00, ZÁŘÍ-PROSINEC 2025     | 2 500 Kč        |
+| *10 lekcí (90 min a 250 Kč)*                                                 |
+| Kurz jógy pro mládež PÁ 16.00, ZÁŘÍ 2025 -LEDEN 2026       | 1 700 Kč        |
+| *17 lekcí (60 min a 100 Kč)*                                                 |
 
 
 # REZERVUJTE SI SVOU LEKCI
