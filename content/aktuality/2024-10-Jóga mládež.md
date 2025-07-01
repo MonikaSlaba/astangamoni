@@ -1,5 +1,5 @@
 ---
-title: "Kurzy jógy pro mládež říjen 2024 - leden 2025"
+title: "Kurzy jógy pro mládež září 2025 - leden 2026"
 date: 2024-08-28T16:12:25+02:00
 image: "/aktuality/joga mladez.jpg"
 imagePosition: 55
