@@ -8,7 +8,7 @@ imagePosition: 55
 
 Kurzy jógy pro mládež ZÁŘÍ 2025 - LEDEN 2026
 
-Pátek: 16-17.00 hod: tělocvična ZŠ Počaply, Králův Dvůr, Tyršova 136, začínáme 19.9.2025, Cena: 2 500 Kč za pololetí
+Pátek: 16-17.00 hod: tělocvična ZŠ Počaply, Králův Dvůr, Tyršova 136, začínáme 19.9.2025, Cena: 2 200 Kč za pololetí
 
 
 Děkuji za sdílení a Vaši podporu!
