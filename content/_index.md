@@ -43,12 +43,12 @@ menu:
 |                                                            |                 |
 | ---------------------------------------------------------- | ---------------:|
 | Jednotlivá lekce Yogaway, Fiziovital, ONLINE - 90 min      |   300 Kč        |
-| Soukromá lekce pro 1-3 osoby - 60/90 min                   | 1 000/1 500 Kč  |
+| Soukromá lekce - 60/90 min                                 | 1 000/1 500 Kč  |
+| *lekce pro 1-3 osoby ve Vámi určený čas*                                     |
 | Permanentka malá - 5 týdnů                                 | 1 250 Kč        |
 | *5 lekcí (90 min a 250 Kč)*                                                  |
 | Permanentka velká - 10 týdnů                               | 2 500 Kč        |
 | *10 lekcí (90 min a 250 Kč)*                                                 |
-| *lekce pro 1-3 osoby ve Vámi určený čas*                                     |
 | Kurz Úvod do Aštanga jógy ČT 19.00, ZÁŘÍ-PROSINEC 2025     | 3 250 Kč        |
 | *13 lekcí (90 min a 250 Kč)*                                                 |
 | Kurz jógy pro mládež PÁ 16.00, ZÁŘÍ 2025 -LEDEN 2026       | 2 200 Kč        |
