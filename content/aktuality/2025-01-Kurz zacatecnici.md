@@ -21,7 +21,7 @@ V kurzu klademe důraz na uvolněné a pohodlné provedení ásán, na základn�
 4. princip vinyasy (propojení dechu a pohybu předepsaným způsobem)
 
 Lekce probíhají každý čtvrtek od 19 hod ve studiu Yogaway, Na Parkáně 367/14, Beroun.
-Kurz je čtvrtletní od ZÁŘÍ do PROSINCE.
+Kurz je čtvrtletní od ZÁŘÍ do PROSINCE, začínáme 18.9.2025
 
 Cena: 3 250 Kč (13 lekcí)
 
