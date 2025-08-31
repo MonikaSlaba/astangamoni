@@ -9,7 +9,7 @@ menu:
 
 ---
 
-# PRÁZDNINOVÝ ROZVRH LEKCÍ V ROCE 2025
+# ROZVRH LEKCÍ OD ZÁŘÍ 2025
 
 - PO - 19:00 Yogaway Beroun (90 min)
 - ÚT - 8:30 Yogaway Beroun (90 min)
