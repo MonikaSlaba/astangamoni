@@ -14,8 +14,8 @@ menu:
 - PO - 19:00 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek (90 min)
 - ST - soukromé lekce nebo ONLINE - přihlášky zde [SMS](/kontakty) :)
-- ČT - 8:30 Yogaway Beroun (90 min
-- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy pro mládež ÚNOR-ČERVEN 2026
+- ČT - 8:30 Yogaway Beroun (90 min)
+- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy ÚNOR-ČERVEN 2026
 
 ![](Ilustrace-rozvrhu.png)
 
