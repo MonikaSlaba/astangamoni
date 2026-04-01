@@ -1,12 +1,12 @@
 ---
-title: "Kurzy jógy pro mládež ÚNOR-ČERVEN 2026"
+title: "Kurzy jógy ÚNOR-ČERVEN 2026"
 date: 2024-08-28T16:12:25+02:00
 image: "/aktuality/joga mladez.jpg"
 imagePosition: 55
 
 ---
 
-Kurzy jógy pro mládež ÚNOR-ČERVEN 2026
+Kurzy jógy ÚNOR-ČERVEN 2026
 
 Pátek: 16-17.00 hod: tělocvična ZŠ Počaply, Králův Dvůr, Tyršova 136, začínáme 6.2.2026, Cena: 2 100 Kč za pololetí
 
