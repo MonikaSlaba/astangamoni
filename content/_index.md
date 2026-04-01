@@ -14,8 +14,7 @@ menu:
 - PO - 19:00 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek (90 min)
 - ST - soukromé lekce nebo ONLINE - přihlášky zde [SMS](/kontakty) :)
-- ČT - 8:30 Yogaway Beroun (90 min)
-- ČT - 19:00 Yogaway Beroun (90 min) - Kurz Úvod do Aštanga jógy ZÁŘÍ-PROSINEC 2025
+- ČT - 8:30 Yogaway Beroun (90 min
 - PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy pro mládež ÚNOR-ČERVEN 2026
 
 ![](Ilustrace-rozvrhu.png)
@@ -49,8 +48,6 @@ menu:
 | *5 lekcí (90 min a 250 Kč)*                                                  |
 | Permanentka velká - 10 týdnů                               | 2 500 Kč        |
 | *10 lekcí (90 min a 250 Kč)*                                                 |
-| Kurz Úvod do Aštanga jógy ČT 19.00, ZÁŘÍ-PROSINEC 2025     | 3 250 Kč        |
-| *13 lekcí (90 min a 250 Kč)*                                                 |
 | Kurz jógy PÁ 16.00, ÚNOR-ČERVEN 2026                       | 2 100 Kč        |
 | *18 lekcí (60 min a 122 Kč)*                                                 |
 
