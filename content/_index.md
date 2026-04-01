@@ -41,7 +41,7 @@ menu:
 -->
 |                                                            |                 |
 | ---------------------------------------------------------- | ---------------:|
-| Jednotlivá lekce Yogaway, Fiziovital, ONLINE - 90 min      |   300 Kč        |
+| Jednotlivá lekce Yogaway, Fyziovital, ONLINE - 90 min      |   300 Kč        |
 | Soukromá lekce - 60/90 min                                 | 1 000/1 500 Kč  |
 | *lekce pro 1-3 osoby ve Vámi určený čas*                                     |
 | Permanentka malá - 5 týdnů                                 | 1 250 Kč        |
