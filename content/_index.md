@@ -9,7 +9,7 @@ menu:
 
 ---
 
-# ROZVRH LEKCÍ OD ZÁŘÍ 2025
+# ROZVRH LEKCÍ 2026
 
 - PO - 19:00 Yogaway Beroun (90 min)
 - ÚT - 19:30 Fyziovital Osek (90 min)
