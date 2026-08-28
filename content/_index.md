@@ -49,7 +49,7 @@ menu:
 | Permanentka velká - 10 týdnů                               | 2 500 Kč        |
 | *10 lekcí (90 min a 250 Kč)*                                                 |
 | Kurz jógy PÁ 16.00, ČERVEN 26 - LEDEN 27                   | 1 950 Kč        |
-| *18 lekcí (60 min a 122 Kč)*                                                 |
+| *16 lekcí (60 min a 122 Kč)*                                                 |
 
 
 # REZERVUJTE SI SVOU LEKCI
