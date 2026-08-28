@@ -21,7 +21,7 @@ Lekce jsou dynamické, propojují dech a pohyb předepsaným způsobem - vinyasa
 
 Praktikujeme ve stálých sestavách, Vaše tělo si časem zvykne na pozice i přechody mezi nimi. Mysl tak dostává prostor více se soustředit na jemnohmotné dění uvnitř:
 1) dech - udžají,
-2) energetické zámky - bandhy a
+2) energetické zámky - bandhy
 3) směr pohledu očí - drišti. Cvičení se postupně stává meditací v pohybu, prohlubuje vnímání při lekci i v běžném životě, vede k sebepoznání.
 
 Učím buď vedené lekce - celá skupina cvičí to samé; nebo lekce formou "mysore", kdy se postupně nenásilnou formou naučíte sestavu cvičit sami, každý praktikuje svým vlastním tempem v rytmu svého dechu. V lekci mysore mám jako lektor čas a prostor přistoupit ke každému individuálně dle jeho momentálních možností, rady a adjustmenty jsou mířené přímo Vám.
@@ -42,7 +42,7 @@ Při svých hodinách čerpám i z lekcí a víkendových workshopů dalších (
 
 V tom, co předávám, mne významně ovlivnily i sebepoznávací transformační pobyty:
 - 2020-2022 - Cesta tančícího srdce, Guy Barrington, Zdeněk Vencl
-- 2023-2025 - Plavání s delfíny, Nader Gaber, Fatima Jalout, Sataya Reef, Egypt
+- 2023-2026 - Plavání s delfíny, Nader Gaber, Fatima Jalout, Sataya Reef dolphin house, Egypt
 - 2023 - Posvátná cesta po čakrách Egypta s plavbou po Nilu, Míla Aine Hlávková, Ashraf El Masry, Egypt
 - 2024 - Probuzení bodu G, Andrew Barnes, Martina Anjali Výborná
 - 2024-2025, 2026 - Awakening divine feminine a Rozepjatá křídla hlasu, Komala de Amorim

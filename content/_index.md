@@ -15,7 +15,7 @@ menu:
 - ÚT - 19:30 Fyziovital Osek (90 min)
 - ST - soukromé lekce nebo ONLINE - přihlášky zde [SMS](/kontakty) :)
 - ČT - 8:30 Yogaway Beroun (90 min)
-- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy ÚNOR-ČERVEN 2026
+- PÁ - 16:00 ZŠ Počaply, Králův dvůr (60 min) - Kurz jógy ČERVEN 26 - LEDEN 27
 
 ![](Ilustrace-rozvrhu.png)
 
@@ -48,7 +48,7 @@ menu:
 | *5 lekcí (90 min a 250 Kč)*                                                  |
 | Permanentka velká - 10 týdnů                               | 2 500 Kč        |
 | *10 lekcí (90 min a 250 Kč)*                                                 |
-| Kurz jógy PÁ 16.00, ÚNOR-ČERVEN 2026                       | 2 100 Kč        |
+| Kurz jógy PÁ 16.00, ČERVEN 26 - LEDEN 27                   | 1 950 Kč        |
 | *18 lekcí (60 min a 122 Kč)*                                                 |
 
 
