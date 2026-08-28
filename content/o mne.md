@@ -20,7 +20,7 @@ Každá pozice (ásana) má několik modifikací, které jsou svou obtížností
 Lekce jsou dynamické, propojují dech a pohyb předepsaným způsobem - vinyasa.
 
 Praktikujeme ve stálých sestavách, Vaše tělo si časem zvykne na pozice i přechody mezi nimi. Mysl tak dostává prostor více se soustředit na jemnohmotné dění uvnitř:
-1) dech - udžají,
+1) dech - udžají
 2) energetické zámky - bandhy
 3) směr pohledu očí - drišti. Cvičení se postupně stává meditací v pohybu, prohlubuje vnímání při lekci i v běžném životě, vede k sebepoznání.
 
