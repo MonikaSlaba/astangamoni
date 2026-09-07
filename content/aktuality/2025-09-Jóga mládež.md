@@ -1,5 +1,6 @@
 ---
-title: "Kurzy jógy ÚNOR-ČERVEN 26
+title: "Kurzy jógy ÚNOR-ČERVEN 26"
+date: 20
 date: 2024-08-28T16:12:25+02:00
 image: "/aktuality/joga mladez.jpg"
 imagePosition: 55
